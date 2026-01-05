@@ -54,25 +54,25 @@ const Index = () => {
       name: 'Иванова Мария',
       specialty: 'Главный ветеринарный врач',
       experience: '15 лет',
-      image: 'https://cdn.poehali.dev/projects/b883302e-a5a2-4e00-bf3b-c8ab018cc310/files/f561e4a1-b893-4ab3-8866-fda290ba9e10.jpg'
+      image: 'https://cdn.poehali.dev/files/c8b87238-2f8c-44ff-95dd-ebc127b0006b_b37ccb52-8a0d-4a06-a33c-8bc1e9c23fa6.png'
     },
     {
       name: 'Петров Алексей',
       specialty: 'Ветеринарный хирург',
       experience: '12 лет',
-      image: 'https://cdn.poehali.dev/projects/b883302e-a5a2-4e00-bf3b-c8ab018cc310/files/f561e4a1-b893-4ab3-8866-fda290ba9e10.jpg'
+      image: 'https://cdn.poehali.dev/files/GKVqpKtqhxXKb1v1HYQzaYGYIalEKNJUU2giXIAmAyTpMmiB0R7vX9zfqDP0wO-fh3tsSGtZ.jpg'
     },
     {
       name: 'Сидорова Елена',
       specialty: 'Ветеринарный терапевт',
       experience: '10 лет',
-      image: 'https://cdn.poehali.dev/projects/b883302e-a5a2-4e00-bf3b-c8ab018cc310/files/f561e4a1-b893-4ab3-8866-fda290ba9e10.jpg'
+      image: 'https://cdn.poehali.dev/files/dbe88cbf-0041-4c29-bd0e-498888d5eb41_07dbf0ec-aa79-4978-94b7-07a7e85cb6f5.png'
     },
     {
       name: 'Козлов Дмитрий',
       specialty: 'Ветеринарный стоматолог',
       experience: '8 лет',
-      image: 'https://cdn.poehali.dev/projects/b883302e-a5a2-4e00-bf3b-c8ab018cc310/files/f561e4a1-b893-4ab3-8866-fda290ba9e10.jpg'
+      image: 'https://cdn.poehali.dev/files/daa0e329-afab-4bdd-96e3-dfa05da7b6e2_5480c101-d29d-4d88-9059-71ce42b6e146.png'
     }
   ];
 
