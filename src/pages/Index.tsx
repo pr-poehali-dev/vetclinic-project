@@ -251,7 +251,7 @@ const Index = () => {
                 </Dialog>
                 <Button size="lg" variant="outline" className="text-lg">
                   <Icon name="Phone" className="mr-2" size={20} />
-                  +7 (495) 123-45-67
+                  +7 (951) 727-71-91
                 </Button>
               </div>
               <div className="flex gap-8 pt-4">
@@ -486,7 +486,7 @@ const Index = () => {
                 </div>
                 <CardTitle>Телефон</CardTitle>
                 <CardDescription className="text-lg font-semibold text-foreground">
-                  +7 (495) 123-45-67
+                  +7 (951) 727-71-91
                 </CardDescription>
                 <CardDescription>Круглосуточно</CardDescription>
               </CardHeader>
@@ -552,7 +552,7 @@ const Index = () => {
             <div>
               <h4 className="font-semibold mb-4">Контакты</h4>
               <ul className="space-y-2 text-background/80">
-                <li>+7 (495) 123-45-67</li>
+                <li>+7 (951) 727-71-91</li>
                 <li>info@vetklinika.ru</li>
                 <li>г. Москва, ул. Примерная, д. 10</li>
                 <li>Круглосуточно, без выходных</li>
